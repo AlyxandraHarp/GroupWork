@@ -9,7 +9,7 @@ public class C7_1 {
     /**
      * Main Method 
      * 
-     * @param args arguments from command line prompt
+     * @param args arguments from command line prompt 
      */
     
     public static void main(String[] args){
